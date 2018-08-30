@@ -34,3 +34,12 @@ my tummy hurt
 2. Milk
 3. Bread
 4. ~No candy~
+
+```python
+print('Thomas Payton')
+print('I am 6 foot 4')
+print('My favorite food is jerk chicken')
+print('My favorite rapper is Playboi Carti')
+print('I like to watch basketball highlights')
+
+```
