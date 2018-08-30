@@ -20,3 +20,17 @@ my tummy hurt
 
 > hashtag my life is good 
 
+| what |  am  |   i  |
+| ---- | ---- | ---- |
+|   i  |  d   |   k  |
+
+~~im so radical~~
+
+*am i doing this assignment right?*
+
+**rose golden**
+
+1. Eggs
+2. Milk
+3. Bread
+4. ~No candy~
